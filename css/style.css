@@ -262,6 +262,12 @@ p.bio-text {
   z-index: -1;
 }
 
+a.socialmedia-button:hover {
+  transform: scale(1.2);
+  transition-timing-function: ease-out;
+
+}
+
 .snotty-nose-rez-kids-img {
   position: relative;
   top: -152.5px;
@@ -1398,4 +1404,5 @@ a.photographer-link:hover {
 .container {
   margin-left: auto;
   margin-right: auto;
+  padding: 0 16px;
 }

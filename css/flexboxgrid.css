@@ -2,8 +2,8 @@
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  padding: 0 16px;
-  width: 100%;
+  padding-right: 2rem;
+  padding-left: 2rem;
 }
 
 .row {
@@ -243,9 +243,9 @@
   order: 1;
 }
 
-@media only screen and (min-width: 380px) {
+@media only screen and (max-width: 767px) {
   .container {
-    width: 100%;
+    width: 320px;
   }
 
   .col-sm,
@@ -458,7 +458,7 @@
 
 @media only screen and (min-width: 768px) {
   .container {
-    width: 100%;
+    width: 768px;
   }
 
   .col-md,
@@ -671,7 +671,7 @@
 
 @media only screen and (min-width: 1200px) {
   .container {
-    width: 100%;
+    width: 1280px;
   }
 
   .col-lg,

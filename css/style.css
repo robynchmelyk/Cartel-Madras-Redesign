@@ -682,6 +682,7 @@ button.submit-button:hover {
 .masthead-secondary-text-top {
   position: relative;
   bottom: 315px;
+  font-size: 2rem;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
   color: rgba(0, 0, 0, 0);
@@ -693,6 +694,7 @@ button.submit-button:hover {
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
   color: rgba(0, 0, 0, 0);
+  font-size: 2rem;
 }
 
 .mainpg-img-box {

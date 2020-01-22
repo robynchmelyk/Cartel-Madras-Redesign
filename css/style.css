@@ -688,6 +688,10 @@ label.contact-form {
   margin-bottom: .5rem;
 }
 
+.masthead-text-box {
+
+}
+
 input {
   border: 2px solid black;
   margin-top: .25rem;
@@ -1112,7 +1116,7 @@ a.photographer-link:hover {
   }
 
   .container-masthead {
-    height: 60vh;
+    height: 490px;
   }
 
   h3.contact-details {
@@ -1472,7 +1476,7 @@ a.photographer-link:hover {
   }
 
   .container-masthead {
-    height: 80vh;
+    height: 800px;
   }
 
   h3.contact-details {

@@ -206,81 +206,6 @@ h1.masthead-text {
   }
 }
 
-
-
-
-
-@-webkit-keyframes colorchangeoutline {
-  0% {
-    -webkit-text-stroke: 10px #A5FB4A;
-  }
-
-  10% {
-    -webkit-text-stroke: 10px #8e44ad;
-  }
-
-  20% {
-    -webkit-text-stroke: 10px #1abc9c;
-  }
-
-  30% {
-    -webkit-text-stroke: 10px red;
-  }
-
-  40% {
-    -webkit-text-stroke: 10px #A5FB4A;
-  }
-
-  50% {
-    -webkit-text-stroke: 10px #8AFAFF;
-  }
-
-  60% {
-    -webkit-text-stroke: 10px red;
-  }
-
-  70% {
-    -webkit-text-stroke: 10px #6A76B8;
-  }
-
-  80% {
-    -webkit-text-stroke: 10px #f1c40f;
-  }
-
-  90% {
-    -webkit-text-stroke: 10px #8AFAFF;
-  }
-
-  100% {
-    -webkit-text-stroke: 10px pink;
-  }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 h1.schedule-date-number {
   font-size: 4.50rem;
   font-family: 'Barlow Condensed', sans-serif;
@@ -688,9 +613,7 @@ label.contact-form {
   margin-bottom: .5rem;
 }
 
-.masthead-text-box {
-
-}
+.masthead-text-box {}
 
 input {
   border: 2px solid black;
@@ -760,16 +683,16 @@ button.submit-button:hover {
   position: relative;
   bottom: 315px;
   -webkit-text-stroke-width: 1px;
--webkit-text-stroke-color: black;
-    color: rgba(0, 0, 0, 0);
+  -webkit-text-stroke-color: black;
+  color: rgba(0, 0, 0, 0);
 }
 
 .masthead-secondary-text-bottom {
   position: relative;
   bottom: 135px;
   -webkit-text-stroke-width: 1px;
--webkit-text-stroke-color: black;
-    color: rgba(0, 0, 0, 0);
+  -webkit-text-stroke-color: black;
+  color: rgba(0, 0, 0, 0);
 }
 
 .mainpg-img-box {
@@ -978,17 +901,17 @@ a.photographer-link:hover {
     bottom: 325px;
     font-size: 4rem;
     -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
-      color: rgba(0, 0, 0, 0);
+    -webkit-text-stroke-color: black;
+    color: rgba(0, 0, 0, 0);
   }
 
   .masthead-secondary-text-bottom {
     position: relative;
     bottom: 60px;
     -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
-      color: rgba(0, 0, 0, 0);
-      font-size: 4rem;
+    -webkit-text-stroke-color: black;
+    color: rgba(0, 0, 0, 0);
+    font-size: 4rem;
   }
 
   .triangle-box {
@@ -1245,7 +1168,7 @@ a.photographer-link:hover {
   .masthead-secondary-text-bottom {
     position: relative;
     top: 110px;
-      font-size: 6rem;
+    font-size: 6rem;
   }
 
   h1.schedule-date-number {

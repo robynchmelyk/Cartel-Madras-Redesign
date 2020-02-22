@@ -904,7 +904,7 @@ a.photographer-link:hover {
     position: relative;
     bottom: 325px;
     font-size: 4rem;
-    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-width: 2.5px;
     -webkit-text-stroke-color: black;
     color: rgba(0, 0, 0, 0);
   }
@@ -912,7 +912,7 @@ a.photographer-link:hover {
   .masthead-secondary-text-bottom {
     position: relative;
     bottom: 60px;
-    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-width: 2.5px;
     -webkit-text-stroke-color: black;
     color: rgba(0, 0, 0, 0);
     font-size: 4rem;
@@ -1166,14 +1166,28 @@ a.photographer-link:hover {
   .masthead-secondary-text-top {
     position: relative;
     bottom: 250px;
+    -webkit-text-stroke-width: 4.5px;
+    -webkit-text-stroke-color: black;
     font-size: 6rem;
   }
 
   .masthead-secondary-text-bottom {
     position: relative;
     top: 110px;
+    -webkit-text-stroke-width: 4.5px;
+    -webkit-text-stroke-color: black;
     font-size: 6rem;
   }
+
+
+
+
+
+
+
+
+
+
 
   h1.schedule-date-number {
     font-size: 6.5rem;

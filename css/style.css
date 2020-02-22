@@ -1166,7 +1166,7 @@ a.photographer-link:hover {
   .masthead-secondary-text-top {
     position: relative;
     bottom: 250px;
-    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-width: 3.25px;
     -webkit-text-stroke-color: black;
     font-size: 6rem;
   }
@@ -1174,20 +1174,10 @@ a.photographer-link:hover {
   .masthead-secondary-text-bottom {
     position: relative;
     top: 110px;
-    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-width: 3.25px;
     -webkit-text-stroke-color: black;
     font-size: 6rem;
   }
-
-
-
-
-
-
-
-
-
-
 
   h1.schedule-date-number {
     font-size: 6.5rem;
